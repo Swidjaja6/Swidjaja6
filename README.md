@@ -8,4 +8,3 @@ I am Sean Widjaja. I am a senior software engineering student at San Jose State 
 
 You can reach me at 
 * Email: Swidjaja270@gmail.com
-* Phone: 925-400-3554
