@@ -1,10 +1,11 @@
 ### About Me
 
-I am Sean Widjaja. I am a senior software engineering student at San Jose State University. The languages that I am most familiar with are Java, C++, C, and Python. Some of the tasks that I am currently doing are as follows:
+I am Sean Widjaja. I am a data analyst at EnQubes. I mainly code in SQL, Microsoft Visual Basic, and Python I am also familiar with Java and C++. Some of what I do during work and outside of work too are as follows:
 
-* Project manager of a group of 5 to create a small Operating System
-* Collaborator for the dashboard in Formula SAE Electric in SJSU
-* Exploring Tensorflow and machine learning under a professor at SJSU
+* Designed Machine Learning code to fill in missing data in sql tables with expected outputs
+* Writing SQL Procedures and Excel VBA functionality for various tasks in my company
+* Working on writing functionalities of an Operating System outside of work
+* Studying networks and cybersecurity fundamentals
 
 You can reach me at 
 * Email: Swidjaja270@gmail.com
